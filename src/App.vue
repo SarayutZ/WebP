@@ -1,30 +1,17 @@
-<template> ทดสอบ
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+<template>
+  <div>
+<RecommendCourse/>
+  </div>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
 
-nav {
-  padding: 30px;
+import RecommendCourse from './components/RecommendCourse.vue';
+  export default {
+    components: { RecommendCourse }
 }
+</script>
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
+<style >
 
-nav a.router-link-exact-active {
-  color: #42b983;
-}
 </style>
