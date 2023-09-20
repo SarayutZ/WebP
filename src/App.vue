@@ -1,5 +1,5 @@
 <template>
-หวัดดี
+ไงพวก
 </template>
 
 <style>
