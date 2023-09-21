@@ -48,69 +48,70 @@
     Learnlink:"https://elearning.set.or.th/SETGroup/courses/819/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"เงินทองต้องวางแผน",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/130819031109-WMD1001.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/182/info"
+    
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"วางแผนการเงินหลังเกษียณ สไตล์วัยเก๋า",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/300819091702-WMD1202.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/193/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"วางแผนเกษียณ สไตล์มนุษย์เงินเดือน",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/130819073006-WMD1201.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/183/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"หลักการลงทุน",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/220218061908-INV101.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/15/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"การลงทุนในหุ้น",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/210918134729-inv102_cover.jpg",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/16/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"การกำหนดเป้าหมายการพัฒนาที่ยั่งยืนของธุรกิจ",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/181220062003-shutterstock_557079442-resize_S01.jpg",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/271/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"การวิเคราะห์ห่วงโซ่คุณค่าและผู้มีส่วนได้เสีย",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/181220062028-shutterstock_562244602-resize_S02.jpg",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/272/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"การกำหนดกลยุทธ์และวิธีการดำเนินงานด้านความยั่งยืนขององค์กร",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/181220062051-shutterstock_564043102-resize_S03.jpg",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/273/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"เศรษฐกิจหมุนเวียน หรือ Circular Economy",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/090123012205-Banner%20e-learning%20%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%20Thai%20LiveStream_Circular%20Economy_480x270%20px.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/901/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"พื้นฐานด้านความยั่งยืนของธุรกิจ",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/181220062106-shutterstock_523767853-resize.jpg",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/174/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"วางแผนภาษี สไตล์มนุษย์เงินออม",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/300819070849-WMD1501.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/192/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"ลงทุนตราสารหนี้ฉบับมือใหม่",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/060219111506-DBD1001.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/124/info"
 },
 {
-    name:"",
-    imagesCourse:"",
-    Learnlink:""
+    name:"ลงทุนหุ้นมั่นใจ ต้องเข้าใจกราฟเทคนิค",
+    imagesCourse:"https://elearning.set.or.th/_c_/data-file/assets/courses/thumbnail/EQD1103_1.png",
+    Learnlink:"https://elearning.set.or.th/SETGroup/courses/30/info"
 },
   
   ]);
